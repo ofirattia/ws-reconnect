@@ -1,8 +1,8 @@
 {
   "name": "ws-reconnect",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "websocket client that reconnect",
-  "main": "index.js",
+  "main": "lib/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -10,10 +10,9 @@
     "ws",
     "websocket"
   ],
-  "dependencies":{
-	"ws":"*"
+  "dependencies": {
+    "ws": "*"
   },
-  "main":"lib/index.js",
   "author": "ofirattia@gmail.com",
   "license": "ISC"
 }
