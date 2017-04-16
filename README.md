@@ -1,6 +1,6 @@
 # ws-reconnect: a Node.js WebSocket Client 
 
-[![Version npm](https://img.shields.io/npm/v/ws.svg)](https://www.npmjs.com/package/ws-reconnect)
+[![npm version](https://badge.fury.io/js/ws-reconnect.svg)](https://badge.fury.io/js/ws-reconnect)
 
 ## Usage
 
