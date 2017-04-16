@@ -1,6 +1,6 @@
 {
   "name": "ws-reconnect",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "websocket client that reconnect",
   "main": "lib/index.js",
   "scripts": {
@@ -15,7 +15,7 @@
   "dependencies": {
     "ws": "*"
   },
-  "repository":"https://github.com/ofirattia/ws-reconnect",
+  "repository": "https://github.com/ofirattia/ws-reconnect",
   "author": "ofirattia@gmail.com",
   "license": "ISC"
 }
