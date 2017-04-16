@@ -8,7 +8,9 @@
   },
   "keywords": [
     "ws",
-    "websocket"
+    "websocket",
+	"reconnect",
+	"ws client"
   ],
   "dependencies": {
     "ws": "*"
