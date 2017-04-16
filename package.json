@@ -1,6 +1,6 @@
 {
   "name": "ws-reconnect",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "websocket client that reconnect",
   "main": "lib/index.js",
   "scripts": {
