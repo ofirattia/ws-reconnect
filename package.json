@@ -15,6 +15,7 @@
   "dependencies": {
     "ws": "*"
   },
+  "repository":"https://github.com/ofirattia/ws-reconnect",
   "author": "ofirattia@gmail.com",
   "license": "ISC"
 }
