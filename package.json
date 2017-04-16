@@ -1,6 +1,6 @@
 {
   "name": "ws-reconnect",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "websocket client that reconnect",
   "main": "lib/index.js",
   "scripts": {
@@ -9,8 +9,8 @@
   "keywords": [
     "ws",
     "websocket",
-	"reconnect",
-	"ws client"
+    "reconnect",
+    "ws client"
   ],
   "dependencies": {
     "ws": "*"
