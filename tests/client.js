@@ -1,7 +1,7 @@
 var WSCLIENT = require("../lib");
 
 ws = new WSCLIENT("localhost:1010",{
-	retryCount:1, // default is 2
+	retryCount: -1, // default is -1 (infinite)
 	reconnectInterval: 1 // default is 5
 });
 ws.start();
